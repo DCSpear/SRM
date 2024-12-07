@@ -52,6 +52,12 @@ SRM needs JAVA and JAVA Development Kit 23
 
     > https://www.java.com/en/download/
 
+### To use SRM
+
+- Download the SRM folder
+
+    > Open in your favourite java editor e.g. Apache Netbeans
+
 ### Application in action
 
 #### Login Page
